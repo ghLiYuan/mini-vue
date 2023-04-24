@@ -1,0 +1,30 @@
+{
+  "name": "mini-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc --noEmit",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghLiYuan/mini-vue.git"
+  },
+  "keywords": [],
+  "author": "ghLiYuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghLiYuan/mini-vue/issues"
+  },
+  "homepage": "https://github.com/ghLiYuan/mini-vue#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-typescript": "^7.21.4",
+    "@types/jest": "^29.5.1",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "typescript": "^5.0.4"
+  }
+}
